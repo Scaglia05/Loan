@@ -1,4 +1,5 @@
 Check the possibility of a loan
+
 This Python script allows users to check the possibility of getting a home loan based on the desired home value, monthly salary, and intended payment period. Here is an overview of how the code works:
 
 The program asks the user to enter the value of the desired house (vc), the monthly salary (s) and the payment period in years (a).
