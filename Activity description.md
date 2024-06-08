@@ -1,1 +1,1 @@
-Basic knowledge test, developed in the second semester of Engineering. Application of the following topics: Output and Input command; Variables; Simple, compound, aligned and IF/ELIF/ELSE conditional structure; Arithmetic operators, assignment operator and relational operators.
+Write a program to approve the bank loan for the purchase of a house. Ask the home's value, the buyer's salary and in how many years he will pay. The monthly installment cannot exceed 30% of the salary or else the loan will be denied.
